@@ -6,7 +6,7 @@ I would say my favorite programming language is Java.
 
 ##### Here is the basic constructs for now
 
-**These** *are* ~~the~~ **_the_** ***different** texts.
+**These** *are* ~~the~~ **_the_** ***different*** texts.
 
 > Quoting texts
 
