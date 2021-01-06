@@ -34,3 +34,5 @@ Four upper division CS classes I may have taken
 - [x] CSE 105
 - [ ] CSE 110
 - [ ] CSE 101
+
+Here is an image of the the ![code from the internet](https://www.economist.com/sites/default/files/images/2015/09/blogs/economist-explains/code2.png)
