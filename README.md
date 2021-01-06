@@ -19,6 +19,8 @@ git commit
 
 The link to this very page is [here](https://github.com/ibro912/ibro912.github.io/blob/main/README.md).
 
+Link to the config file is [this](_config.yml)
+
 A List of CS classes I have taken
 - CSE 11
 - CSE 12
@@ -28,6 +30,11 @@ A List of CS classes I have taken
 - CSE 30
 - CSE 100
 - CSE 105
+
+Numbered and nested lists are like this
+1. item 1
+   - sub item 1
+     - sub item 2
 
 Four upper division CS classes I may have taken
 - [x] CSE 100
