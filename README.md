@@ -2,40 +2,35 @@ Iain's User Page
 
 I would say my favorite programming language is Java.
 
-## Welcome to GitHub Pages
+## Welcome to my GitHub page
 
-You can use the [editor on GitHub](https://github.com/ibro912/ibro912.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+##### Here is the basic constructs for now
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**These** *are* ~~the~~ **_the_** ***different** texts.
 
-### Markdown
+> Quoting texts
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Important code is 
+```
+git status
+git add
+git commit
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The link to this very page is [here](https://github.com/ibro912/ibro912.github.io).
 
-### Jekyll Themes
+A List of CS classes I have taken
+- CSE 11
+- CSE 12
+- CSE 15L
+- CSE 20
+- CSE 21
+- CSE 30
+- CSE 100
+- CSE 105
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ibro912/ibro912.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Four upper division CS classes I may have taken
+- [x] CSE 100
+- [x] CSE 105
+- [] CSE 110
+- [] CSE 101
