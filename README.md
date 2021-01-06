@@ -17,7 +17,7 @@ git add
 git commit
 ```
 
-The link to this very page is [here](https://github.com/ibro912/ibro912.github.io).
+The link to this very page is [here](https://github.com/ibro912/ibro912.github.io/blob/main/README.md).
 
 A List of CS classes I have taken
 - CSE 11
