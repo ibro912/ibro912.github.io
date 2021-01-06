@@ -32,5 +32,5 @@ A List of CS classes I have taken
 Four upper division CS classes I may have taken
 - [x] CSE 100
 - [x] CSE 105
-- [] CSE 110
-- [] CSE 101
+- [ ] CSE 110
+- [ ] CSE 101
