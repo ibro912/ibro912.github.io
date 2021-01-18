@@ -1,5 +1,7 @@
 Iain's User Page
 
+My name is Iain Ro, I am a 2nd year computer science major at UCSD, I am currently very interested in learning about programming and different languages, and I enjoy learning about Video game programming in my free time.
+
 I would say my favorite programming language is Java.
 
 ## Welcome to my GitHub page
