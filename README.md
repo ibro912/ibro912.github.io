@@ -1,29 +1,12 @@
 Iain's User Page
 
-My name is Iain Ro, I am a 2nd year computer science major at UCSD, I am currently very interested in learning about programming and different languages, and I enjoy learning about Video game programming in my free time.
-
-I would say my favorite programming language is Java.
+My name is Iain Ro, I am currently a 4th year student at UC San Diego, currently majoring in Computer Science. 
 
 ## Welcome to my GitHub page
 
-##### Here is the basic constructs for now
+[Here](https://github.com/ibro912) is the link to my projects on by github.
 
-**These** *are* ~~the~~ **_the_** ***different*** texts.
-
-> Quoting texts
-
-Important code is 
-```
-git status
-git add
-git commit
-```
-
-The link to this very page is [here](https://github.com/ibro912/ibro912.github.io/blob/main/README.md).
-
-Link to the config file is [this](_config.yml)
-
-A List of CS classes I have taken
+Relevant Courses at UCSD
 - CSE 11
 - CSE 12
 - CSE 15L
@@ -31,17 +14,22 @@ A List of CS classes I have taken
 - CSE 21
 - CSE 30
 - CSE 100
+- CSE 101
 - CSE 105
+- CSE 110
+- CSE 120
+- CSE 130
+- CSE 140/CSE 140L
+- CSE 141/CSE 141L
+- CSE 160
+- CSE 167
+- COGS 108
 
-Numbered and nested lists are like this
-1. item 1
-   - sub item 1
-     - sub item 2
-
-Four upper division CS classes I may have taken
-- [x] CSE 100
-- [x] CSE 105
-- [ ] CSE 110
-- [ ] CSE 101
-
-Here is an image of the code from the internet ![code from the internet](https://www.economist.com/sites/default/files/images/2015/09/blogs/economist-explains/code2.png)
+Programming languages that I have utilized and learned
+- Java
+- C/C++
+- Python
+- System Verilog
+- JavaScript
+- HTML
+- CSS
