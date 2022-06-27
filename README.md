@@ -1,6 +1,6 @@
 Iain's User Page
 
-My name is Iain Ro, I am currently a 4th year student at UC San Diego, currently majoring in Computer Science. Learning about Software Engineering is very interesting, and is helpful for creating different projects I am passionate about. Outside of computer science, I am very interested in writing, and learning about how to create stories, such as in making games.
+I am currently a 4th year student at UC San Diego, currently majoring in Computer Science. Studying software engineering has been instrumental in devloping the different projects I am involved in. Outside of computer science, I am most interested in writing, and learning how to create stories, such as when making video games and writing novels.
 
 ## Welcome to my GitHub page
 
@@ -29,6 +29,7 @@ Programming languages that I have utilized and learned
 - Java
 - C/C++
 - Python
+- R/MatLab
 - System Verilog
 - JavaScript
 - HTML
