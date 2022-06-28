@@ -1,6 +1,6 @@
 Iain's User Page
 
-I am currently a 4th year student at UC San Diego, currently majoring in Computer Science. Studying software engineering has been instrumental in devloping the different projects I am involved in. Outside of computer science, I am most interested in writing, and learning how to create stories, such as when making video games and writing novels.
+I will be a 4th year student at UCSD studying Computer Science. Studying CS has been instrumental in developing the different projects I am involved in. Outside of computer science, I am most interested in writing, and learning how to create stories, such as when making video games and other projects.
 
 ## Welcome to my GitHub page
 
